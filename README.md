@@ -1,1 +1,3 @@
 ### This repo contains a dataset of customer information used to predict customer churn.
+
+### We do some focus on some of the features trying to find some significance in them.  We do see that many of the customers that are churning are month-to-month customers that have fiber internet, but lack any sort of techincal support.  Would these customers churn less if they had these additional services?  Would it be beneficial for the company to offer these services at a discounted rate or free of charge in order to keep the large amount of monthly revenue?
